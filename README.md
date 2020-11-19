@@ -1,11 +1,1 @@
-8a31231231231231231231
-mandrilltest_key   = 1a31231231231231231231
-mandrilltest_key   = `1a31231231231231231231`
- mandrilltest_key   = 2a31231231231231231231
-b_MandrIll_key   =223123123f291231231231
-c_MandrIll_key: `32312312z1231231231231`
-d_MandrIll_key:= '52312312z1231231231231'
-e_mandrIll_te-st_key="423s231231-3_231231231"
-# datboi
-mmhm 2c904ee72d4ccaff774f4ceeb4dfc09c-us9 yep i tell ya hwut
-02c3bd448045b59ec326a38230f0ce45-us9 asd
+its me
